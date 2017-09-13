@@ -1,6 +1,6 @@
-# Cattle Market Analysis
+# Livestock Market Analysis
 
-The purpose of the Jupyter notebook is to analyze the cattle market using the available scraped data from local auction websites.
+The purpose of the Jupyter notebook is to make an analysis of the local livestock market. In order to do this data from local auction websites is scraped in the form of downloaded pdf's. Afterwards an OCR routine using Tesseract helps extract the information in the documents, and finally after parsing and formatting the data is available in a dataframe ready to be analyzed.
 
 ## Getting Started
 
